@@ -1,6 +1,6 @@
 {
   "name": "onedionys-internationalization-i18n-support",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Internationalization i18n Support) - Support for multilingual experiences in web applications, including text translation and content localization.",
   "main": "src/i18n-support.js",
   "directories": {
