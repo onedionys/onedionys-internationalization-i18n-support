@@ -41,6 +41,7 @@ console.log(greeting); // Output: Bonjour
 * v1.0.0 : 18 March 2024
 * v1.0.1 : 18 March 2024
 * v1.0.2 : 24 March 2024
+* v5.0.0 : 31 March 2024
 
 ## 🧑 Author
 
